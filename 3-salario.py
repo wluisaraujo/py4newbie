@@ -1,3 +1,4 @@
+#!/usr/bin/python
 salario = int(input('Salario? '))
 
 imposto = input('Imposto em % (ex: 27.5)?')
