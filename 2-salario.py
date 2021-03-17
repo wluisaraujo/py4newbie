@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 salario = int(input('Salario? '))
 imposto = input('Imposto em % (ex: 27.5)?')
 if imposto == '':

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import boto3
 clientDynamoDB = boto3.client('dynamodb')
 allItems = clientDynamoDB.scan(

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 salario = int(input('Salario? '))
 
 imposto = 27.

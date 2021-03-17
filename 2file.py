@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 x = int(input())
 if x > 5:
     msg = 'maior que 5'

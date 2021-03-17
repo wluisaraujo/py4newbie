@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 imposto = float(input("Imposto: "))
 if imposto < 10:
     print("Medio")
