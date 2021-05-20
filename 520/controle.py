@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-cont = 0
-while cont < 10:
-    print('Execução {}'.format(cont))
-    if cont == 5:
-        print('interrompendo o loop com break')
-        break
-    cont += 1
+par = []
+
+for n in range(20):
+    if n % 2 != 0 :
+        continue
+    par.append(n)
+print(par)
